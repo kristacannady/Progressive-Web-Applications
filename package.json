@@ -1,22 +1,33 @@
 {
-  "name": "progressive-web-applications",
+  "name": "jate",
   "version": "1.0.0",
   "description": "GIVEN a text editor web application",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kristacannady/Progressive-Web-Applications.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/kristacannady/Progressive-Web-Applications/issues"
   },
-  "homepage": "https://github.com/kristacannady/Progressive-Web-Applications#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "homepage": "https://github.com/kristacannady/Progressive-Web-Applications#readme"
 }
