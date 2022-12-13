@@ -1,0 +1,22 @@
+{
+  "name": "progressive-web-applications",
+  "version": "1.0.0",
+  "description": "GIVEN a text editor web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristacannady/Progressive-Web-Applications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristacannady/Progressive-Web-Applications/issues"
+  },
+  "homepage": "https://github.com/kristacannady/Progressive-Web-Applications#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
