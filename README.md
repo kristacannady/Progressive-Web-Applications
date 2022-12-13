@@ -50,15 +50,18 @@ WHEN I deploy to Heroku
 
 THEN I should have proper build scripts for a webpack application
 ## Built With
-* mdfkdmkff
+* Webpack
+* HTML
+* CSS
+* Node.js
+* JavaScript
 
 ## Installation and Usage
 Once downloading files, install is locally using:
-`npm install`
+`npm i`
 
 Then, start your server by using:
 `npm start`
-
 ## Links
 [Heroku](https://sheltered-shore-92090.herokuapp.com/) 
 ## Contribution
